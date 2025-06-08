@@ -1,0 +1,6 @@
+0 Plastic 
+1 Organic
+2 Metal
+3 Glass
+4 Paper
+5 E-waste
